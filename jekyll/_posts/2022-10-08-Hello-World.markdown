@@ -4,8 +4,6 @@ title:  "Hello, world!"
 date:   2022-10-08 15:53:58 +0200
 categories: general
 ---
-# Hello world!
-
 This is my new blog. I’ve not blogged in a long time, and this is the first time I’m trying this out ‘at large’.
 I’ll be mainly writing about all things Azure, Open Source, Containers, Cloud-Native and tech in general. I might even throw in some home automation now and then.
 
